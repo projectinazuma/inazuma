@@ -1,0 +1,9 @@
+Building inazuma
+
+See doc/readme-qt.rst for instructions on building inazuma-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of inazuma.
+
+See doc/build-*.txt for instructions on building inazumad,
+the intended-for-services, no-graphical-interface, reference
+implementation of inazuma.
